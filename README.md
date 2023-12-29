@@ -1,2 +1,2 @@
-# ravnur-media-services
-Documentation for Ravnur Media Services
+# Ravnur Media Services Documentation
+This repository is strictly for documentation of Ravnur Media Services.
